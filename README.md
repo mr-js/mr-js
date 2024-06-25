@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on **complex multi-level automated operations on technical documentation and data**
 - 🤔 I’m looking for help with **receiving new orders for the development of documentation for the European market**
 - 💬 Ask me about **technical documentation for software development**
-- 📫 How to reach me: [mr-js@bk.ru](mailto:mr-js@bk.ru?subject=FromGitHub)
+<!-- - 📫 How to reach me: [mr-js@bk.ru](mailto:mr-js@bk.ru?subject=FromGitHub) -->
 
