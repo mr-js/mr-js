@@ -1,42 +1,33 @@
-### Hi, I'm Mr. JS 👋
+## 👋 Hi, I'm Mr. JS
 
-# 🚀 Rapid software design and development
+💎 Python developer, 6 years experience
 
-💎 Python developer with 5+ years of experience
 
 ## 🔧 What do I do:
 
-✅ Turnkey lightweight and functional web applications on Flask microframework (including Rest API Werkzeug Jinja2 JSON JavaScript JQuery HTML CSS Bootstrap)
+✅ Lightweight functional web applications and services on Flask microframework: simplicity and minimalism, flexibility and extensibility, low iron requirements and high speed
 
-✅ Cross-platform desktop applications and scripts (work out-of-the-box on Windows/MacOS/Linux, including GUI)
+✅ Cross-platform desktop applications and scripts: work "out-of-the-box" simultaneously under Windows/MacOS/Linux and have a single modern fast and responsive adaptive interface
 
-✅ Data scraping & parsing of any complexity from scratch (from automated requests to live user emulation, including bypassing security mechanisms)
+✅ Data analysis and processing of any complexity: from scraping/parsing web resources to parsing any file format (for example, working with DOCX/PDF without Microsoft/Adobe software or parsing a binary format file)
 
-✅ Data analysis and processing of any complexity from scratch (from manual RE/LXML/Pandas parsing to AI)
-
-✅ Development of Docs As Code technical documentation for programmers (Markdown AsciiDoc docToolchain reStructuredText Sphinx), as well as native work with DOCX/PDF without pre-installed Microsoft and Adobe software
-
-✅ Automation of modern communications (e.g., collecting, processing, and forwarding your mail to your Telegram)
-
-✅ Automation of any manual operations (e.g., collecting all your mail and sending it to your Telegram Bot or emulation of typing and keystrokes in old software)
-
-🔒 No prepayment: payment only after demonstration of intermediate results, source code after full payment.
 
 ## ⚠️ Please note:
 
-❌ I do not take on the task of finalizing other people's projects (I can only help you understand Python source code)
+❌ I don't take on refining other people's projects, but I can help to understand the source code (paid consultation)
 
-❌ I do not guarantee the performance of integrations with third-party solutions, including bypassing security mechanisms (e.g. Cloudflare or ReCaptcha)
+❌ I don't take on specialized template tasks that can be done via no-code/low-code platforms (e.g. chatbots)
 
-❌ I do not participate in calls, conferences and telegram groups (just avito chat, email and github)
+❌ I don't take on implementation of security mechanism bypasses (e.g. captcha) and I don't guarantee integrations with third-party solutions
+
 
 ## 🏆 Why me:
 
 ✅ Quick start
-✅ Individual approach
-✅ Regular reports
-✅ No prepayment
-✅ 20+ years in IT
+✅ Always on call
+✅ No upfront payment
 
-📌 I only take on projects that interest me. For better results it is always better to have a detailed Technical specification for development.
+🔒 No upfront payment: payment only after demonstration of intermediate results, source code after full payment.
+
+📌 For the best result it is always better to have a Terms of Reference (detailed TOR) - if there is no TOR, then immediately send at least the Concept of your project: what is the idea, purpose and principle of operation. I do not participate in calls and conferences, I only take on projects that interest me.
 
