@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mr. JS
 
-💎 Python developer, 6 years experience
+💎 Python developer to bring your projects to life
 
 
 ## 🔧 What do I do:
@@ -25,9 +25,14 @@
 
 ✅ Quick start
 ✅ Always on call
-✅ No upfront payment
+✅ No prepayment
 
-🔒 No upfront payment: payment only after demonstration of intermediate results, source code after full payment.
+🔒 Without prepayment: the project is divided into stages (minimum 4-8 hours, maximum 20-40 hours), payment only after demonstration and agreement of results for each stage, source code after full payment and project completion.
 
 📌 For the best result it is always better to have a Terms of Reference (detailed TOR) - if there is no TOR, then immediately send at least the Concept of your project: what is the idea, purpose and principle of operation. I do not participate in calls and conferences, I only take on projects that interest me.
 
+## 📯 How to reach me:
+
+🔔 Contact me now: 📟 [@mr0js](https://t.me/mr0js) 📧 [dev@mr-js.ru](dev@mr-js.ru) 🕸 [mr-js.ru](https://mr-js.ru)
+
+⚡Write and we'll make a deal!
