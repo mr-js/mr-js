@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Mr. JS
 
-✨ Python developer to bring your projects to life
+✨ Python developer to bring your ideas and projects to life
+
+![](/images/scheme.gif)
 
 
 ## 🔧 What do I do
