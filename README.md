@@ -28,7 +28,7 @@
 
 📌 For best results: it is always a good idea to have at least a brief concept of your project, presented in a single document (idea, purpose, and principle of operation), and ideally a detailed Technical Specification | Terms of Reference (TS|ToR).
 
-⚠️ Please note: I do not provide free consultations or technical support, nor do I participate in conference calls or conferences. Payment is hourly, according to the rate specified in the relevant section. I give priority to interesting projects lasting 40 hours or more.
+⚠️ Please note: I work on an hourly basis (the rate is indicated in the corresponding section) and take on interesting projects lasting 3-5 business days or more (priority is given to long-term projects lasting 20 days or more), and I do not participate in conference calls or refine other people's source code.
 
 💳 Details and payment: officially to the account of an individual entrepreneur (operating for more than 10 years, main activity classifier 62.0 Computer software development) online with a receipt issued. For legal entities, there is cashless payment and an account agreement via electronic document exchange (large projects).
 
