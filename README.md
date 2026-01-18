@@ -1,35 +1,27 @@
-## 🚀 Rapid software design and development by Mr. JS
+# 🚀 Rapid software design and development by Mr. JS
 
-👋 Hi, I'm Mr. JS: Python developer to bring your ideas and projects to life ✨
+👋, I'm Mr. JS: a Python developer bringing your ideas and projects to life ✨
 
-![](/images/scheme.gif)
+![scheme](/images/scheme.gif)
 
+## 🔧 What I Do
 
-## 🔧 What I do
+*   ✅ **Lightweight and functional web services:** built on micro-frameworks Flask/FastAPI, featuring a modern responsive interface and Bootstrap-based design
+*   ✅ **Cross-platform desktop applications:** work "out of the box" on Windows/MacOS/Linux with a unified user interface and UX/UI ergonomics
+*   ✅ **System utilities and scripts:** automation of any routine operations (e.g., emulating user actions/input in a web browser or obfuscating/removing personal data from files)
+*   ✅ **Data analysis and processing of any complexity:** from web scraping/parsing to parsing files of any format (e.g., working with DOCX/XLSX/PDF without Microsoft Word/Excel software)
 
-✅ Lightweight and functional web services on the Flask/FastAPI microframeworks: include a modern responsive interface and Bootstrap-based design
+## 🏆 Why Choose Me
 
-✅ Desktop applications and application utilities: run out-of-the-box on Windows/MacOS/Linux simultaneously, have the same interface and unlimited functionality
+*   ✅ 10+ years of experience
+*   ✅ Always available
+*   ✅ Fast start
 
-✅ System utilities and scripts for various specific tasks: for example, file name obfuscation with personal data removal or fine-tuning screen parameters by hotkeys
+📌 **Work Terms:** I work on an hourly basis (rate specified in the relevant section) and only take on projects that interest me. Each project is broken down into stages, with subsequent payments made after demonstration and approval of results for each stage (source code is transferred upon full payment and project completion). For the best result and a quick start, it's always advisable to develop and provide me with a detailed Technical Specification (TS) for your project.
 
-✅ Analyzing and processing data of any complexity, from scraping/parsing web resources to parsing any file format: for example, working with DOCX/XLSX/PDF without Microsoft Word/Excel software or creating/updating your offline directory based on data from various web resources in one click
+⚠️ **Limitations:** I do not participate in calls or work on refining someone else's source code, nor do I provide guarantees for integrations with third-party solutions.
 
-✅ Automation of any routine operations: e.g. emulation of user actions for inputting and retrieving data processing results in any legacy program
+💳 **Payment Details & Payment:** official payments to the account of an individual entrepreneur (operating for over 10 years, main activity classifier 62.0 Computer software development) online with a receipt issued. For legal entities, wire transfer and an electronic contract/invoice via EDI are available (for large projects).
 
-## 🏆 Why me
-
-✅ 10+ years of experience
-✅ Quick start
-✅ Always available
-✅ No prepayment required
-
-🔒 No prepayment: the project is divided into stages (from 8 to 40 hours), payment only after demonstration and approval of the results for each stage, source code after full payment and completion of the project.
-
-📌 For best results: it is always a good idea to have at least a brief concept of your project, presented in a single document (idea, purpose, and principle of operation), and ideally a detailed Technical Specification | Terms of Reference (TS|ToR).
-
-⚠️ Please note: I work on an hourly basis (the rate is indicated in the corresponding section) and take on interesting projects lasting 3-5 business days or more (priority is given to long-term projects lasting 20 days or more), and I do not participate in conference calls or refine other people's source code.
-
-💳 Details and payment: officially to the account of an individual entrepreneur (operating for more than 10 years, main activity classifier 62.0 Computer software development) online with a receipt issued. For legal entities, there is cashless payment and an account agreement via electronic document exchange (large projects).
 
 **🔔 Contact me now:** | [📟 **@mr0js**](https://t.me/mr0js) | [📧 **dev@mr-js.ru**](mailto:dev@mr-js.ru) | [🕸 **mr-js.ru**](https://mr-js.ru) | [⭐ **GitHub**](https://github.com/mr-js) | [🌟 **Avito**](https://www.avito.ru/brands/5903713ad1788b26af88b62126b25806) | ⚡ Write and we'll make a deal!
