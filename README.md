@@ -14,8 +14,10 @@
 ## 🏆 Why Choose Me
 
 *   ✅ 10+ years of experience
-*   ✅ Always available
+*   ✅ Focus on business results
 *   ✅ Fast start
+*   ✅ Regular reporting
+*   ✅ Always in touch
 
 📌 **Work Terms:** I work on an hourly basis (rate specified in the relevant section) and only take on projects that interest me. Each project is broken down into stages, with subsequent payments made after demonstration and approval of results for each stage (source code is transferred upon full payment and project completion). For the best result and a quick start, it's always advisable to develop and provide me with a detailed Technical Specification (TS) for your project.
 
