@@ -27,3 +27,13 @@
 
 
 **🔔 Contact me now:** | [📟 **@mr0js**](https://t.me/mr0js) | [📧 **dev@mr-js.ru**](mailto:dev@mr-js.ru) | [🕸 **mr-js.ru**](https://mr-js.ru) | [⭐ **GitHub**](https://github.com/mr-js) | [🌟 **Avito**](https://www.avito.ru/brands/5903713ad1788b26af88b62126b25806) | ⚡ Write and we'll make a deal!
+
+## 📌 About this repository
+
+A collection of small personal projects and useful utilities.
+
+**🆓 100% Free & Open Source**: All utilities and tools here are free under the MIT license.
+
+**💼 Commercial Projects**: Available for private contracts. Client code remains strictly private.
+
+**🤝 Commercial Portfolio**: [Selected Commercial Projects Overview](https://mr-js.ru/eng/projects/)
